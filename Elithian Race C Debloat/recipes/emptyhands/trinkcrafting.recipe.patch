@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "craftingfurnace"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/1",
+    "value": "bars"
+  },
+  {
+    "op": "remove",
+    "path": "/groups/3"
+  }
+]

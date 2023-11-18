@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "craftingwheel"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/2",
+    "value": "dyes"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "craftingfurniture"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/1",
+    "value": "beds"
+  },
+  {
+    "op": "remove",
+    "path": "/groups/3"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "weapons"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "craftinganvil"
+  }
+]
