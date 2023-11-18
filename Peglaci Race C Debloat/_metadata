@@ -1,0 +1,8 @@
+{
+  "author" : "Darkcraft8",
+  "description" : "A Patch to move recipes arround,\n\nMove some recipes.",
+  "friendlyName" : "Peglaci Rebirth Mod C Debloat",
+  "name" : "d8-peglaci-patch",
+  "requires" : ["peglaci"],
+  "version" : "Patch"
+}

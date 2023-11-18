@@ -1,0 +1,8 @@
+{
+  "author" : "Darkcraft8",
+  "description" : "A Patch to move recipes arround,\n\nMove the recipes of the Designated Laying Spots to the Beds Section of the Wooden Workbench.",
+  "friendlyName" : "Designated Laying Spots No C",
+  "name" : "d8-Designated Laying Spots-patch",
+  "requires" : ["Designated Laying Spots"],
+  "version" : "Patch"
+}

@@ -1,0 +1,8 @@
+{
+  "author" : "Darkcraft8",
+  "description" : "A Patch to move recipes arround,\n\nMove the recipe of the Air Pen to the dye section of the tier1 spinning wheels",
+  "friendlyName" : "Air Dot Pen Advanced No C",
+  "name" : "d8-Air_dot_pen_advanced-patch",
+  "requires" : ["Air Dot Pen Advanced"],
+  "version" : "Patch"
+}
