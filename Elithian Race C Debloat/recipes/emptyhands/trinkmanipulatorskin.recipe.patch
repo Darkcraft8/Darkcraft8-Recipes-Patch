@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/groups/0",
-    "value": "craftingwheel"
+    "value": "trinkcrafting"
   },
   {
     "op": "add",
     "path": "/groups/-",
-    "value": "dyes"
+    "value": "consumables"
   }
 ]
