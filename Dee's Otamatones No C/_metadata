@@ -3,6 +3,6 @@
   "description" : "A Patch to move recipes arround,\n\nMove the recipe of the Otamatone Vendor to the inventor's table.",
   "friendlyName" : "Dee's Otamatones No C",
   "name" : "d8-Dee's Otamatones-patch",
-  "requires" : ["Dee's Otamatones"],
+  "priority" : 99999999999999999,
   "version" : "Patch"
 }

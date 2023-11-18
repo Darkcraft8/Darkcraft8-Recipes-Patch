@@ -3,6 +3,6 @@
   "description" : "A Patch to move recipes arround,\n\nMove the recipe of the Musician's Terminal to the inventor's table.",
   "friendlyName" : "Dee's Instruments No C",
   "name" : "d8-Dee's Instruments-patch",
-  "requires" : ["Dee's Instruments"],
+  "priority" : 99999999999999999,
   "version" : "Patch"
 }

@@ -3,6 +3,6 @@
   "description" : "A Patch to move recipes arround,\n\nMove some recipes\n- trinkian metal to tier1 furnace bars section\n- manipulator skin's to the dyes section of the tier1 spinning wheel\n- the avikan hunter's knife is no longer craftable in the c menu and instead can be crafted at the foraging table.",
   "friendlyName" : "Elithian Races Mod C Debloat",
   "name" : "d8-Elithian_Races_Mod-patch",
-  "requires" : ["Elithian_Races_Mod"],
+  "priority" : 99999999999999999,
   "version" : "Patch"
 }

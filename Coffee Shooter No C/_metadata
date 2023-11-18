@@ -3,6 +3,6 @@
   "description" : "A Patch to move recipes arround,\n\nMove the conversion recipe of the Coffee Shooter to the weapons section of the tier1 anvil",
   "friendlyName" : "Coffee Shooter No C",
   "name" : "d8-Coffee Shooter-patch",
-  "requires" : ["Coffee Shooter"],
+  "priority" : 99999999999999999,
   "version" : "Patch"
 }
