@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/groups/3",
+    "path": "/groups/2",
     "value": "craftingfurnace"
   }
 ]
